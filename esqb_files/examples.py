@@ -1,4 +1,4 @@
-from query_builder import QueryBuilder as Q
+from esqb_files.query_builder import QueryBuilder
 
 # Build a sample ES query
 query = Q.boolean(
