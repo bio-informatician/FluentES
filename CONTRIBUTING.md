@@ -1,7 +1,3 @@
----
-# CONTRIBUTING.md
----
-
 # Contributing to FluentES
 
 Thank you for your interest in contributing! Here are some guidelines to help you get started.
